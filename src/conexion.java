@@ -32,7 +32,7 @@ Si peta Importar Librerias : => xmldb y Base X 86
 
 
 
-public class Main {
+public class conexion {
 
     public static Scanner sc = new Scanner(System.in);
 
